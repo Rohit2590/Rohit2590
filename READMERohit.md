@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rohit Ghorai</h1>
 <h3 align="center">A passionate Web Designer & Fullstack React.js Developer</h3>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coder" width="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="coder" width="500"/>
 </p>
+
 ---
 
 🌟 **About Me**
 
-- 🔭 I’ve recently built **Centigrade** and **Alloy** (Order Manangement System)** using React.js  
+- 🔭 I’ve recently built **Centigrade** and **Alloy** (Order Manangement System) using React.js  
 - 🚀 I have delivered **3 live projects in just 3 months**
 - 💻 I love creating responsive, clean, and user-focused websites
 - 🌱 Currently exploring **AI-powered web tools** and **Next.js**
