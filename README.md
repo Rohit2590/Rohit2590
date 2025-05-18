@@ -9,7 +9,7 @@
 
 🌟 **About Me**
 
-- 🔭 I’ve recently built **Cospacio** and **HASCO (Hooghly Alloy and Steel Company)** using React.js  
+- 🔭 I’ve recently built **Centigrade** and **Alloy** (Order Manangement System)** using React.js  
 - 🚀 I have delivered **3 live projects in just 3 months**
 - 💻 I love creating responsive, clean, and user-focused websites
 - 🌱 Currently exploring **AI-powered web tools** and **Next.js**
@@ -44,10 +44,10 @@
 📫 **Let's Connect**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="blank">
+  <a href="https://www.linkedin.com/in/rohit-ghorai-22664828a/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="blank">
+  <a href="mailto:rohitghorai590@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
